@@ -1,0 +1,11 @@
+.form-control{
+  border-color:#2bdbb6 !important;
+}
+.form-control:focus{
+  border-color: #2bdbb6 !important;
+  box-shadow: 0 0 0 0.25rem rgba(16, 209, 167, 0.55) !important;
+}
+body{
+  overflow-x:hidden ;
+  overflow-y: scroll;
+}
